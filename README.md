@@ -12,7 +12,7 @@ taller.
 | Carpeta | Punto del taller |
 |---|---|
 | [`ejercicio1-calculadora-propina/`](ejercicio1-calculadora-propina/) | Ejercicio 1: Calculadora de Propina con MVC |
-| [`ejercicio2-conversor-monedas/`](ejercicio2-conversor-monedas/) | Ejercicio 2: Conversor de Monedas Seguro |
+| `ejercicio2-conversor-monedas/` | Ejercicio 2: Conversor de Monedas Seguro |
 | [`ejercicio3-agenda-contactos/`](ejercicio3-agenda-contactos/) | Ejercicio 3: Mini-Agenda de Contactos con `ArrayList` |
 | [`punto4-preguntas-de-reflexion/`](punto4-preguntas-de-reflexion/) | Preguntas de Reflexión y Pensamiento Crítico |
 
