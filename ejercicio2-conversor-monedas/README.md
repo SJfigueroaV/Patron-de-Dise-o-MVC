@@ -1,7 +1,5 @@
 # Ejercicio 2: Conversor de Monedas Seguro
 
-> Carpeta reservada para el desarrollo de este punto. Sube aquí los archivos `.java`.
-
 ## Enunciado
 
 Diseña un conversor de divisas (Pesos Colombianos COP a Dólares USD y Euros EUR) utilizando Swing bajo el
